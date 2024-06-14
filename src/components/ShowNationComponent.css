@@ -71,8 +71,12 @@
         height: auto;
     }
 
+    .showing-container img {
+        height: auto;
+        width: 50%;
+    }
+
     .info-container {
-        flex-direction: row;
         gap: 1rem;
     }
 
