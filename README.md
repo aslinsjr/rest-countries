@@ -1,4 +1,4 @@
-# Frontend Mentor -  solution
+# Frontend Mentor -  Rest Countries Challenge Solution
 
 This is a solution to the [ challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/). 
 
@@ -19,12 +19,12 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./printscreen.png)
 
 ### Links
 
-- Solution URL: [Repository](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/aslinsjr/rest-countries)
+- Live Site URL: [Page](https://rest-countries-five-psi.vercel.app/)
 
 ## My process
 
@@ -35,6 +35,7 @@ Frontend Mentor challenges help improve my coding skills by building realistic p
 - Flexbox
 - CSS Grid
 - JavaScript
+- React JS
 
 ### What I learned
 
@@ -46,6 +47,6 @@ In the process of continuing to develop my skills, I intend to focus on deepenin
 
 ## Author
 
-- Linkedln - [Alexandre Lins](https://www.linkedin.com/in/alexandre-lins-14b190274/)
+- Linkedln - [Alexandre Lins](https://www.linkedin.com/in/aslinsjr/)
 - Frontend Mentor - [@aslinsjr](https://www.frontendmentor.io/profile/aslinsjr)
 
