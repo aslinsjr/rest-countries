@@ -1,0 +1,32 @@
+.header-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 5%;
+    background-color: var(--white);
+    position: fixed;
+    z-index: 1;
+    box-shadow: 1px 1px 0.5rem 1px var(--dark-blue);
+}
+
+.light-and-dark {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.light-and-dark i {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    .header-container {
+        font-size: 0.75rem;
+    }
+
+    .light-and-dark {
+        font-size: 0.5rem;
+    }
+}
